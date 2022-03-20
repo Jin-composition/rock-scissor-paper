@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a580e2c.chunk.css",
+    "main.js": "/static/js/main.d88af93c.chunk.js",
+    "main.js.map": "/static/js/main.d88af93c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ab90e0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ab90e0b.js.map",
+    "static/js/2.e2dd5764.chunk.js": "/static/js/2.e2dd5764.chunk.js",
+    "static/js/2.e2dd5764.chunk.js.map": "/static/js/2.e2dd5764.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a580e2c.chunk.css.map": "/static/css/main.0a580e2c.chunk.css.map",
+    "static/js/2.e2dd5764.chunk.js.LICENSE.txt": "/static/js/2.e2dd5764.chunk.js.LICENSE.txt",
+    "static/media/ic-reset.a995926b.svg": "/static/media/ic-reset.a995926b.svg",
+    "static/media/paper.19c16065.svg": "/static/media/paper.19c16065.svg",
+    "static/media/HandButton.css": "/static/media/purple.fda8fa74.svg",
+    "static/media/rock.24f8e255.svg": "/static/media/rock.24f8e255.svg",
+    "static/media/scissor.6096875e.svg": "/static/media/scissor.6096875e.svg",
+    "static/media/App.css": "/static/media/yellow.6c220a3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab90e0b.js",
+    "static/js/2.e2dd5764.chunk.js",
+    "static/css/main.0a580e2c.chunk.css",
+    "static/js/main.d88af93c.chunk.js"
+  ]
+}
